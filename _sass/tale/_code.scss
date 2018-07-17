@@ -1,11 +1,7 @@
 pre,
 code {
-  font-family: $serif-primary;
+  font-family: $monospaced;
 }
-
-
-
-
 
 code {
   background-color: $grey-3;
@@ -48,4 +44,3 @@ pre code {
             user-select: none;
   }
 }
-*

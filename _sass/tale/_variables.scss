@@ -11,9 +11,9 @@ $shadow-color: rgba(0, 0, 0, 0);
 $code-color: #bf616a;
 
 // Fonts
-$serif-primary: 'Times New Roman', 'Libre Baskerville', Times, serif;
+$serif-primary: 'Calendas Plus','Crimson Text', 'Hoefler Text', 'Georgia', serif;
 $serif-secondary: Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua', 'Georgia', serif;
-$sans-serif: 'Times New Roman','Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
+$sans-serif: 'Source Sans Pro', 'Open Sans', 'Helvetica Neue', 'Arial', sans-serif;
 $monospaced: Menlo, Monaco, monospace;
 
 @mixin box-sizing($type: border-box) {

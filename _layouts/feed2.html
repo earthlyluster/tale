@@ -12,9 +12,8 @@ layout: default
         <div class="catalogue-line"></div>
 
         <p>
-          {{ post.content}}
+       
          
-
         </p>
 
       </div>
@@ -24,15 +23,6 @@ layout: default
 
 
 
-<div class="catalogue">
-  {% for post in paginator.posts %}
-  
-                {{ post.content }}
-         
-      </div>
-    </a>
-  {% endfor %}
-</div>
 
 <div class="pagination">
   {% if paginator.previous_page %}

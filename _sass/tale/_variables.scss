@@ -10,11 +10,34 @@ $blue: #4a9ae1;
 $shadow-color: rgba(0, 0, 0, 0);
 $code-color: #bf616a;
 
-// Fonts
+/* Fonts
+   ========================================================================== */
+
 $serif-primary: 'Calendas Plus','Crimson Text', 'Hoefler Text', 'Georgia', serif;
 $serif-secondary: Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua', 'Georgia', serif;
 $sans-serif: 'Source Sans Pro', 'Open Sans', 'Helvetica Neue', 'Arial', sans-serif;
 $monospaced: Menlo, Monaco, monospace;
+
+
+   
+   
+/* Type Scale
+   ========================================================================== */
+/** * 12 & 16 as roots then powers of two. */
+
+$fs1:64px;
+$fs2:48px;
+$fs3:32px;
+$fs4:24px;
+$fsp:22px;
+$fs5:16px;
+$fs6:12px;
+
+// Line Height
+$lh: 33px;
+$lhsmall: 24px;
+
+
 
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;

@@ -5,6 +5,7 @@
     display: block;
     text-align: center;
     padding: 0rem 0;
+    margin-top; 5rem;
 
     &:hover .catalogue-line,
     &:focus .catalogue-line {
@@ -30,7 +31,7 @@
     font-family: $serif-primary;
     font-size: $fs2;
     font-weight: $medium;
-    margin: .5rem 0;
+    margin: 1.2rem 0 3rem 0rem;
   }
 
   &-line {

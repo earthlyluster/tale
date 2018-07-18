@@ -2,7 +2,8 @@
   &-item {
     border-bottom: 0px solid $grey-2;
     color: $default-color;
-    display: inline-block;
+    display: block;
+    align-items: center;
     padding: 0rem 0;
 
     &:hover .catalogue-line,

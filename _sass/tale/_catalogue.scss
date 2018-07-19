@@ -4,7 +4,7 @@
     color: $default-color;
     padding: 0rem 0;
     margin-top: 5rem;
-    
+    }
     
     &:h1 {
     font-weight: $normal;
@@ -29,7 +29,7 @@
     text-transform: uppercase;
     font-size: $fs5;
     font-weight: $medium;
-   
+  
   }
 
   &-title {
@@ -40,8 +40,8 @@
     margin: 1.2rem 0 3rem 0rem;
     
     &:h1 {
-    text-align: center; 
     display: block;  
+    text-align: center; 
   }
     
  }   

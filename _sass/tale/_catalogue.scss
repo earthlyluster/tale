@@ -7,8 +7,7 @@
     
     
     &:h1 {
-    display: block;
-    text-align: center;
+   
     font-weight: $normal;
 
     }
@@ -25,16 +24,20 @@
 
   &-time {
     color: $default-tint;
+    display: block;
+    text-align: center;
     font-family: $sans-serif;
     letter-spacing: .5px;
     text-transform: uppercase;
     font-size: $fs5;
     font-weight: $medium;
+   
   }
 
   &-title {
     color: $default-shade;
     display: block;
+    text-align: center;
     font-family: $serif-primary;
     font-size: $fs2;
     font-weight: $normal;

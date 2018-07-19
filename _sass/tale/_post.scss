@@ -5,6 +5,11 @@
     color: $default-tint;
     font-family: $sans-serif;
     letter-spacing: 0.5px;
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: $fs5;
+    font-weight: $medium;
 
     span {
       font-style: italic;

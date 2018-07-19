@@ -23,14 +23,16 @@ layout: default
 
 <div class="pagination">
   
-  {% if page.next.url %}
-   <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">Next post &#8592;</a>
-  {% endif %}
-  
   {% if page.previous.url %}
   
   <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">Previous post &#8594;</a>
   {% endif %}
+  
+  {% if page.next.url %}
+   <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">Next post &#8592;</a>
+  {% endif %}
+  
+  
 
   <a href="#" class="top">Top</a>
 </div>

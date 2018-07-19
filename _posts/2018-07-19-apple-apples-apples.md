@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Apples, apples, apples"
+tags: Fall, the valley 
 author: "Anna"
 ---
 

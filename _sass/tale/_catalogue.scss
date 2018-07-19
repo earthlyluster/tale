@@ -1,25 +1,19 @@
 /* LESS Document */
 .catalogue {
   &-item {
+    display: block;
     border-bottom: 0px solid $grey-2;
     color: $default-color;
     padding: 0rem 0;
-    margin-top: 5rem;
+    margin-bottom: 6rem;
+    
     
     &:hover .catalogue-line,
     &:focus .catalogue-line {
      
       }
     
-    &-breathingspace {
-      display: block;
-      margin-bottom: 5rem;
-      }
-    
-    &::after {
-      display:block;
-      line-height: 8rem;    
-      }
+  
     
     
     

@@ -24,12 +24,12 @@ As you may have guessed by now, I am totally sold on this lifestyle. And last, b
 <img border="0" src="http://4.bp.blogspot.com/-c_emWl7XRzQ/Ulr9_DmHPgI/AAAAAAAAEyc/O9mMd5mINSQ/s1600/applePicking2.jpg">
 <img border="0" src="http://2.bp.blogspot.com/-xSWRExazg1w/Ulr_hC10UbI/AAAAAAAAEyo/lnLAcGed1DI/s1600/DSC_0389.jpg">
 
-# The simplest apple pie you've ever made with a not-too-complicated ginger caramel sauce.
+## The simplest apple pie you've ever made with a not-too-complicated ginger caramel sauce.
 
-## For the apple pie
+### For the apple pie
 This "apple pie", if you even can call it that, is ridiculously easy to make. All you need is puff pastry enough to cover a fireproof iron skillet a little bit over the edges. Place any kind of apple pieces over the puff pastry and fold the excess pastry over the sides. You can use apples of any kind, personally I find tart apples to contrast nicely with the delicate delicate puff pastry and sweet, slightly spicy ginger caramel sauce. We used the Norwegian apple Haugmann. Place the skillet in the middle of the oven at 200°C/ 390°F for about 20 minutes.
 
-## For the ginger caramel sauce
+### For the ginger caramel sauce
 
 1 cup or 2 dl heavy cream
 1 tablespoon freshly grated ginger
@@ -45,7 +45,7 @@ The caramel sauce is made in two processes.
 
 2. The caramel. In a saucepan, mix the water and sugar and simmer it on medium heat. Whisk the mixture occasionally. After simmering the sugar and water mixture for about 7-8 minutes increase the heat. Notice how the mixture becomes first golden and them very quickly deep amber. This is when you know the caramel is ready. Set it aside.
 
-## Technique
+### Technique
 
 A common problem when making caramel is that the sugar crystallizes at the end of the process instead of caramelizes. This means you need to use higher heat, and it's particularly a challenge when working on an electric furnace. If it happens add more water, give the mixture a stir and turn up the heat to the max before you put the saucepan back on.
 

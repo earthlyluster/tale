@@ -7,23 +7,25 @@ layout: home
   {% for post in paginator.posts %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
       <div>
+        
         <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
         <h1 class="catalogue-title">{{ post.title }}</h1>
-        <div class="catalogue-line"></div>
- </a>
-        <p>
-                
-          
-             
-     <div class="breathingspace"> 
-      <p>
-        {{ post.content}}
-          
+        
+        <div class="catalogue-line">
+        </div>
+        
+      </a>
        
       
+      <div class="breathingspace"> 
+        
+        <p>
+          {{ post.content}}
+          
         </p>
+        
 
-       </div>
+      </div>
       
    </div>
   

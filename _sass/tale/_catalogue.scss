@@ -7,20 +7,23 @@
     
     
     &:h1 {
-
-    font-weight: $normal;
-
+      font-weight: $normal;
     }
     
-    &:hover .catalogue-line,
-    &:focus .catalogue-line {
-     
-    }
 
     &:last-child {
       border: 0;
     }
+    
+    
+    &:after {
+      display: block;
+      margin-bottom: 7rem;
+    }
+      
   }
+  
+    
 
   &-time {
     color: $default-tint;

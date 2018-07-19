@@ -1,3 +1,4 @@
+/* LESS Document */
 .catalogue {
   &-item {
     border-bottom: 0px solid $grey-2;
@@ -34,7 +35,7 @@
     font-weight: $normal;
     margin: 1.2rem 0 3rem 0rem;
     
-    &:h1 }
+    &:h1 {
       font-weight: $normal;
       text-align: center; 
       display: block;  
@@ -44,6 +45,5 @@
     
  }   
 
-  
 
 

@@ -1,11 +1,11 @@
 /* LESS Document */
 .catalogue {
   &-item {
-    display: block;
+    
     border-bottom: 0px solid $grey-2;
     color: $default-color;
     padding: 0rem 0;
-    margin-bottom: 6rem;
+    
     
     
     &:hover .catalogue-line,
@@ -14,8 +14,11 @@
       }
     
   
-    
-    
+    &-breathingspace {
+     
+      display: block;
+      margin-bottom: 6rem;
+    }
     
     &:last-child {
       border: 0;

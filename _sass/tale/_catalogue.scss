@@ -7,7 +7,7 @@
     
     
     &:h1 {
-   
+
     font-weight: $normal;
 
     }
@@ -35,14 +35,18 @@
   }
 
   &-title {
-    color: $default-shade;
-    display: block;
-    text-align: center;
+    color: $default-shade; 
     font-family: $serif-primary;
     font-size: $fs2;
     font-weight: $normal;
     margin: 1.2rem 0 3rem 0rem;
+    
+    &:h1 {
+    text-align: center; 
+    display: block;  
   }
+    
+ }   
 
   &-line {
     

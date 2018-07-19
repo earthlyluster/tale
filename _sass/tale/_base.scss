@@ -53,14 +53,21 @@ a {
 
 blockquote, blockquote p {
     font-style: italic;
-    line-height: 1.3em;
+    font-size: $fs3;
+    line-height: $lh;
     text-align: center;
+    letter-spacing: 0.003rem;
+    
+    
     
 
   p:last-child {
     margin-bottom: $lh;
   }
 }
+
+
+
   @media (min-width: 600px) {
     padding: 0 5rem 0 1.25rem;
   }

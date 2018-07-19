@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apples, apples, apples"
-tags: Fall, the valley 
+tags: [fall, the valley]
 author: "Anna"
 ---
 

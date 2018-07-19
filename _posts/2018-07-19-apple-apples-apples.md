@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Styling examples"
+title: "Apples, apples, apples"
 author: "Anna"
 ---
 

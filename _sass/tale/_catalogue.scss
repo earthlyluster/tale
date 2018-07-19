@@ -4,21 +4,16 @@
     color: $default-color;
     padding: 0rem 0;
     margin-top: 5rem;
-    }
-    
-    &:h1 {
-    font-weight: $normal;
-    }
     
     &:hover .catalogue-line,
     &:focus .catalogue-line {
      
-    }
+      }
 
     &:last-child {
       border: 0;
+      }
     }
-  }
 
   &-time {
     color: $default-tint;
@@ -30,7 +25,7 @@
     font-size: $fs5;
     font-weight: $medium;
   
-  }
+    }
 
   &-title {
     color: $default-shade; 
@@ -39,14 +34,16 @@
     font-weight: $normal;
     margin: 1.2rem 0 3rem 0rem;
     
-    &:h1 {
-    display: block;  
-    text-align: center; 
-  }
+    &:h1 }
+      font-weight: $normal;
+      text-align: center; 
+      display: block;  
+      }
+    
+    }
     
  }   
 
-  &-line {
-    
-  }
-}
+  
+
+

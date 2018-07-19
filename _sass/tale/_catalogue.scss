@@ -2,12 +2,12 @@
   &-item {
     border-bottom: 0px solid $grey-2;
     color: $default-color;
-    display: block;
     padding: 0rem 0;
     margin-top: 5rem;
     
     
     &:h1 {
+    display: block;
     text-align: center;
     font-weight: $normal;
 

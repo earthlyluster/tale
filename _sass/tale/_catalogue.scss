@@ -15,9 +15,15 @@
       display: block;
       margin-bottom: 5rem;
       }
-
-    &:last-child {
     
+    &::after {
+      display:block;
+      line-height: 8rem;    
+      }
+    
+    
+    
+    &:last-child {
       border: 0;
       }
     }

@@ -5,7 +5,6 @@
     color: #fff;
     font-family: $serif-primary;
     letter-spacing: 0.5px;
-    text-align: center;
 
     span {
       font-style: italic;
@@ -13,11 +12,14 @@
   }
 
   &-title {
+    display: block;
     color: $default-shade;
     font-family: $serif-primary;
     margin: 1rem 0;
     text-align: center;
   }
+  
+  
 
 
   p {

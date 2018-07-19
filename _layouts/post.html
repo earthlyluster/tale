@@ -29,9 +29,7 @@ layout: default
   
   {% if page.previous.url %}
   
-    <div class="previous">
-      <span>Previous post&nbsp;<a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a></span>
-  </div>
+  <span><a href="Previous post&nbsp;{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a></span>
   {% endif %}
 
   <a href="#" class="top">Top</a>

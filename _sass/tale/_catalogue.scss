@@ -10,8 +10,14 @@
     &:focus .catalogue-line {
      
       }
+    
+    &-breathingspace {
+      display: block;
+      margin-bottom: 5rem;
+      }
 
     &:last-child {
+    
       border: 0;
       }
     }
